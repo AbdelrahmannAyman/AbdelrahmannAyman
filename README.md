@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman892&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman892" /> </p>
 
-- 🌱 I’m currently learning **Backend Development(Spring Boot, MVC)**
+- 🌱 I’m currently learning **Backend Development(Spring Boot)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelrhman892](https://github.com/abdelrhman892)
 
