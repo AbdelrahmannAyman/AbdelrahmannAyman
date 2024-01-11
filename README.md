@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Backend Development(Spring Boot)**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/abdelrhman892](https://github.com/abdelrhman892](https://www.linkedin.com/in/abdulrahman-ayman-560350272/))
+- 👨‍💻 All of my projects are available at [https://github.com/abdelrhman892](https://github.com/abdelrhman892](https://www.linkedin.com/in/abdulrahman-ayman-560350272/))
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrhman-ayman-560350272/](https://www.linkedin.com/in/abdulrhman-ayman-560350272/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrhman-ayman-560350272/](https://www.linkedin.com/in/abdulrahman-ayman-560350272/)
 
 - 📫 How to reach me **abdoayman5m@gmail.com**
 
