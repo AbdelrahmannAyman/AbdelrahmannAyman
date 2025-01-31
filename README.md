@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ayman</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman892&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman892" /> </p>
 
-- 🌱 I’m currently learning **Backend Development(Spring Boot)**
+- 🌱 I’m currently learning **Full Stack Development(Django, React)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelrhman892](https://github.com/abdelrhman892](https://www.linkedin.com/in/abdulrahman-ayman-560350272/))
 
