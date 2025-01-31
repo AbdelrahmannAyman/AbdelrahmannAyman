@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmannayman" alt="abdelrahmannayman" /></a> </p>
 
-- 🌱 I’m currently Using for Development **Django, React**
+- 🌱 I’m currently Using for Development (**Django, React**)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdelrahmannAyman](https://github.com/AbdelrahmannAyman)
 
